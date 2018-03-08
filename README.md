@@ -1,4 +1,4 @@
-# Porté Fashionshow
+# Porté fashion show
 Minimal single page website for the [Porté](https://xn--port-epa.ch/) fashion show using [fullPage.js](https://alvarotrigo.com/fullPage/), [gulp.js](https://gulpjs.com/) and [Bower](https://bower.io/) 
 
 ## Installation
