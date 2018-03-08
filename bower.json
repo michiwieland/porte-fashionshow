@@ -1,11 +1,11 @@
 {
-  "name": "Porte",
+  "name": "porte",
   "authors": [
     "Michael Wieland <www.neocode.ch>"
   ],
-  "description": "Porté - Fashionshow",
+  "description": "Porté - fashion show",
   "license": "MIT",
-  "homepage": "https://www.neocode.ch",
+  "homepage": "https://github.com/michiwieland/porte-fashionshow",
   "private": true,
   "ignore": [
     "**/.*",

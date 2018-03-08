@@ -25,7 +25,6 @@ gulp.task('html', function(){
 gulp.task('styles', function(){
     return gulp.src([
         paths.bower + 'fullpage.js/dist/jquery.fullPage.css',
-        paths.bower + 'components-font-awesome/css/fontawesome.css',
         paths.assets + 'style.scss'
     ])
     .pipe(sass())

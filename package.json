@@ -1,14 +1,14 @@
 {
   "name": "porte",
   "version": "1.0.0",
-  "description": "Porté Fashionshow",
+  "description": "Porté fashion show",
   "main": "script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "www.github.com"
+    "url": "https://github.com/michiwieland/porte-fashionshow"
   },
   "keywords": [
     "event"
@@ -17,6 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.9.2",
     "gulp-concat": "^2.6.1",
     "gulp-minify-css": "^1.2.4",
     "gulp-sass": "^3.1.0",
