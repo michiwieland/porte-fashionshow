@@ -1,0 +1,22 @@
+{
+  "name": "Porte",
+  "authors": [
+    "Michael Wieland <www.neocode.ch>"
+  ],
+  "description": "Porté - Fashionshow",
+  "license": "MIT",
+  "homepage": "https://www.neocode.ch",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": ">=1.6.0",
+    "fullpage.js": "^2.9.6",
+    "robotocondensed-googlefont": "*"
+  }
+}
